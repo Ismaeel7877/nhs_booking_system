@@ -35,4 +35,4 @@ A full-stack web application developed as a final-year computing dissertation pr
   * **Password:** `ihsaan123`
 
 ## 📸 Screenshots
-*(Add screenshots of your login page and patient/staff dashboards here to showcase the UI without requiring local installation.)*
+![Login Page](screenshots/login.png)
