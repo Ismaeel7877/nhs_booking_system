@@ -36,3 +36,5 @@ A full-stack web application developed as a final-year computing dissertation pr
 
 ## 📸 Screenshots
 ![Login Page](screenshots/login.png)
+![Staff Dashboard Page](screenshots/staff_dashboard.png)
+![Patient Dashboard Page](screenshots/patient_dashboard.png)
