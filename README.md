@@ -28,13 +28,16 @@ A full-stack web application developed as a final-year computing dissertation pr
 
 * **Staff Test Login:**
   * **Email:** `Staff@nhs.co.uk`
-  * **Password:** `danny786`
+  * **Password:** `staff123@`
 
 * **Patient Test Login:**
-  * **Email:** `Mihsaan21@gmail.com`
-  * **Password:** `ihsaan123`
+  * **Email:** `patient@gmail.com`
+  * **Password:** `patient123@`
 
 ## 📸 Screenshots
+## Login Page
 ![Login Page](screenshots/login.png)
+## Staff Dashboard Page
 ![Staff Dashboard Page](screenshots/staff_dashboard.png)
+## Patient Dashboard Page
 ![Patient Dashboard Page](screenshots/patient_dashboard.png)
